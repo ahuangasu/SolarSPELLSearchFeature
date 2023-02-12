@@ -13,5 +13,6 @@ The current search does not support corrective spelling for the search query nor
 5. Activate the virtual environment and run the content_fts3.py file using the command:
   “python content_fts3.py” for windows 
   “python3 content_fts3.py” for mac
-6. Copy the url visible in the terminal and paste it within the data.service.ts file from the services folder in the solarSPELL application; example below:![image](https://user-images.githubusercontent.com/91769429/218340905-ce2c9ec9-157d-49a8-95b7-b8932189b57b.png)
+6. Copy the url visible in the terminal and paste it within the data.service.ts file from the services folder in the solarSPELL application; example below:
+![image](https://user-images.githubusercontent.com/91769429/218340905-ce2c9ec9-157d-49a8-95b7-b8932189b57b.png)
 7. Set up the solarSPELL application on your system following the linked document: https://docs.google.com/document/u/0/d/1ny5iWBWim86duDMJhbsSSVSrJv98NIUpGRZmZF3TlqY/edit
